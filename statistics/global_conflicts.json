@@ -1,0 +1,421 @@
+{
+    "2020": {
+        "active_wars": 5,
+        "number_countries": 195,
+        "countries_in_conflict": ["Syria", "Yemen", "Afghanistan", "Libya", "Ukraine"]
+    },
+    "2021": {
+        "active_wars": 5,
+        "number_countries": 195,
+        "countries_in_conflict": ["Syria", "Yemen", "Afghanistan", "Libya", "Ukraine"]
+    },
+    "2022": {
+        "active_wars": 6,
+        "number_countries": 195,
+        "countries_in_conflict": ["Syria", "Yemen", "Afghanistan", "Libya", "Ukraine", "Ethiopia"]
+    },
+    "2023": {
+        "active_wars": 6,
+        "number_countries": 195,
+        "countries_in_conflict": ["Syria", "Yemen", "Afghanistan", "Libya", "Ukraine", "Ethiopia"]
+    },
+    "2024": {
+        "active_wars": 5,
+        "number_countries": 195,
+        "countries_in_conflict": ["Syria", "Yemen", "Afghanistan", "Ukraine", "Mali"]
+    },
+    "2025": {
+        "active_wars": 4,
+        "number_countries": 196,
+        "new_country": "New Caledonia",
+        "countries_in_conflict": ["Yemen", "Afghanistan", "Ukraine", "Mali"]
+    },
+    "2026": {
+        "active_wars": 4,
+        "number_countries": 196,
+        "countries_in_conflict": ["Yemen", "Afghanistan", "Ukraine", "Mali"]
+    },
+    "2027": {
+        "active_wars": 4,
+        "number_countries": 196,
+        "countries_in_conflict": ["Yemen", "Afghanistan", "Ukraine", "Mali"]
+    },
+    "2028": {
+        "active_wars": 3,
+        "number_countries": 197,
+        "new_country": "Kurdistan",
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali"]
+    },
+    "2029": {
+        "active_wars": 3,
+        "number_countries": 197,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali"]
+    },
+    "2030": {
+        "active_wars": 3,
+        "number_countries": 197,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali"]
+    },
+    "2031": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2032": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2033": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2034": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2035": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2036": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2037": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2038": {
+        "active_wars": 3,
+        "number_countries": 198,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2039": {
+        "active_wars": 3,
+        "number_countries": 199,
+        "new_country": "Biafra",
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2040": {
+        "active_wars": 3,
+        "number_countries": 199,
+        "countries_in_conflict": ["Afghanistan", "Ukraine", "Mali", "Myanmar"]
+    },
+    "2041": {
+        "active_wars": 3,
+        "number_countries": 200,
+        "new_countries": ["Scotland", "Catalonia", "Western Sahara"],
+        "countries_in_conflict": ["Mali", "Pakistan", "Somalia"]
+    },
+    "2042": {
+        "active_wars": 3,
+        "number_countries": 200,
+        "countries_in_conflict": ["Mali", "Pakistan", "Somalia"]
+    },
+    "2043": {
+        "active_wars": 3,
+        "number_countries": 200,
+        "countries_in_conflict": ["Mali", "Pakistan", "Somalia"]
+    },
+    "2044": {
+        "active_wars": 3,
+        "number_countries": 200,
+        "countries_in_conflict": ["Mali", "Pakistan", "Somalia"]
+    },
+    "2045": {
+        "active_wars": 2,
+        "number_countries": 202,
+        "new_country": "Greenland",
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2046": {
+        "active_wars": 2,
+        "number_countries": 202,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2047": {
+        "active_wars": 2,
+        "number_countries": 202,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2048": {
+        "active_wars": 2,
+        "number_countries": 202,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2049": {
+        "active_wars": 2,
+        "number_countries": 202,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2050": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "new_country": "Quebec",
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2051": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2052": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2053": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2054": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2055": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2056": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2057": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2058": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2059": {
+        "active_wars": 2,
+        "number_countries": 205,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2060": {
+        "active_wars": 2,
+        "number_countries": 210,
+        "new_countries": ["Taiwan", "Hong Kong"],
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2061": {
+        "active_wars": 2,
+        "number_countries": 210,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2062": {
+        "active_wars": 2,
+        "number_countries": 210,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2063": {
+        "active_wars": 2,
+        "number_countries": 210,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2064": {
+        "active_wars": 2,
+        "number_countries": 210,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2065": {
+        "active_wars": 2,
+        "number_countries": 210,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2066": {
+        "active_wars": 2,
+        "number_countries": 208,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2067": {
+        "active_wars": 2,
+        "number_countries": 208,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2068": {
+        "active_wars": 2,
+        "number_countries": 208,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2069": {
+        "active_wars": 2,
+        "number_countries": 208,
+        "countries_in_conflict": ["Somalia", "Pakistan"]
+    },
+    "2070": {
+        "active_wars": 1,
+        "number_countries": 215,
+        "new_countries": ["Tibet", "Flanders", "Veneto"],
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2071": {
+        "active_wars": 1,
+        "number_countries": 215,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2072": {
+        "active_wars": 1,
+        "number_countries": 215,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2073": {
+        "active_wars": 1,
+        "number_countries": 215,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2074": {
+        "active_wars": 1,
+        "number_countries": 215,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2075": {
+        "active_wars": 1,
+        "number_countries": 217,
+        "new_country": "Brittany",
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2076": {
+        "active_wars": 1,
+        "number_countries": 217,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2077": {
+        "active_wars": 1,
+        "number_countries": 217,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2078": {
+        "active_wars": 1,
+        "number_countries": 217,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2079": {
+        "active_wars": 1,
+        "number_countries": 217,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2080": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "new_countries": ["Basque Country", "Puerto Rico", "Corsica"],
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2081": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2082": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2083": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2084": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2085": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2086": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2087": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2088": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2089": {
+        "active_wars": 1,
+        "number_countries": 220,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2090": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "new_countries": ["Brittany", "Texas", "Kashmir"],
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2091": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2092": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2093": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2094": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2095": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2096": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2097": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2098": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2099": {
+        "active_wars": 1,
+        "number_countries": 225,
+        "countries_in_conflict": ["Pakistan"]
+    },
+    "2100": {
+        "active_wars": 0,
+        "number_countries": 220,
+        "disappeared_countries": ["Maldives", "Tuvalu"],
+        "countries_in_conflict": []
+    }
+}
+
+

@@ -1,0 +1,218 @@
+/* styles.css */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a2e;
+    color: #e0e0e0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h1 {
+    color: #16bac5;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.input-section {
+    background: #16213e;
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.year-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.year-btn {
+    padding: 10px 15px;
+    background: #0f3460;
+    color: #e0e0e0;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+    margin: 5px;
+}
+
+.year-btn:hover {
+    background: #16bac5;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 10px;
+    border: none;
+    background-color: #0f3460;
+    color: #e0e0e0;
+    border-radius: 5px;
+    font-size: 1em;
+    text-align: center;
+    margin: 5px;
+}
+
+input[type="range"] {
+    width: 100%;
+    margin: 20px 0;
+}
+
+button#simulate-btn {
+    display: block;
+    width: 200px;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    background: #16bac5;
+    color: #1a1a2e;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+button#simulate-btn:hover {
+    background: #14a1aa;
+}
+
+.output-section {
+    background: #16213e;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #16bac5;
+    border-bottom: 2px solid #16bac5;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: #0f3460;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    color: #e94560;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.card p, .card ul {
+    color: #e0e0e0;
+    margin-bottom: 10px;
+}
+
+.card ul {
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+.card ul li {
+    margin-bottom: 8px;
+    position: relative;
+    padding-left: 15px;
+}
+
+.card ul li:before {
+    content: "•";
+    color: #16bac5;
+    position: absolute;
+    left: 0;
+}
+
+.simulating {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    color: #16bac5;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.hidden {
+    display: none;
+}
+
+@media (max-width: 600px) {
+    .year-controls {
+        flex-direction: column;
+    }
+
+    button.year-btn, input[type="number"] {
+        width: 80%;
+    }
+
+    button#simulate-btn {
+        width: 80%;
+    }
+}
+
+
+/* Estilos para el contenedor de mensajes de error */
+#error-message {
+    display: none; /* Oculto por defecto */
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    position: relative;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Icono de advertencia */
+#error-message::before {
+    content: "⚠️";
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Espacio para el contenido después del icono */
+#error-message p {
+    margin-left: 30px;
+}
+
+/* Animación de aparición */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}

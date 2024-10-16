@@ -1,0 +1,92 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sci-Fi Future Simulator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Añade estos estilos en tu styles.css o dentro de una etiqueta <style> */
+        #error-message {
+            display: none; /* Oculto por defecto */
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sci-Fi Future Simulator</h1>
+        
+        <!-- Contenedor para Mensajes de Error -->
+        <div id="error-message"></div>
+        
+        <div class="input-section">
+            <div class="year-controls">
+                <button class="year-btn" data-years="-100">-100</button>
+                <button class="year-btn" data-years="-10">-10</button>
+                <button class="year-btn" data-years="-1">-1</button>
+                <input type="number" id="year-input" min="2020" max="2100" value="2023">
+                <button class="year-btn" data-years="1">+1</button>
+                <button class="year-btn" data-years="10">+10</button>
+                <button class="year-btn" data-years="100">+100</button>
+            </div>
+            <input type="range" id="year-slider" min="2020" max="2100" value="2023">
+            <!--<button id="simulate-btn">Simular</button>-->
+        </div>
+        <div class="output-section">
+            <h2>Resultados de la Simulación para el Año <span id="result-year"></span></h2>
+            <div class="cards-container">
+                <div class="card">
+                    <h3>Estadísticas Globales</h3>
+                    <p>Población: <span id="population"></span></p>
+                    <p>Nacimientos por Año: <span id="births"></span></p>
+                    <p>Muertes por Año: <span id="deaths"></span></p>
+                    <p>Crecimiento de la Población: <span id="population-growth"></span>%</p>
+                    <p>Edad Media: <span id="median-age"></span> años</p>
+                    <p>Edad Máxima de Longevidad: <span id="max-age"></span></p>
+                    <p>Longevidad Media: <span id="average-longevity"></span></p>
+                    <p>Humanos Activos: <span id="active-humans"></span></p>
+                    <p>Robots Activos: <span id="active-robots"></span></p>
+                </div>
+                <div class="card">
+                    <h3>Conflictos Globales</h3>
+                    <p>Guerras Activas: <span id="active-wars"></span></p>
+                    <p>Número de Países: <span id="number-countries"></span></p>
+                    <p>Países en Conflicto: <span id="conflict-countries"></span></p> <!-- Nuevo campo -->
+                    <p>Nuevos Países: <span id="new-country"></span></p> <!-- Nuevo campo -->
+                    <p>Países Desaparecidos: <span id="disappeared-country"></span></p> <!-- Nuevo campo -->
+                </div>                
+                <div class="card">
+                    <h3>Evento Principal</h3>
+                    <p id="major-event"></p>
+                </div>
+                <div class="card">
+                    <h3>Tecnologías en Desarrollo</h3>
+                    <ul id="tech-list"></ul>
+                </div>
+                <div class="card">
+                    <h3>Estadísticas Ambientales</h3>
+                    <p>Cambio de Temperatura Global: <span id="temperature"></span>°C</p>
+                    <p>Nivel del Mar: <span id="sea-level"></span> metros</p>
+                </div>
+                <div class="card">
+                    <h3>Desarrollo de IA</h3>
+                    <p>Tipo de IA: <span id="ai-type"></span></p>
+                    <p>Nivel de IA: <span id="ai-level"></span></p>
+                    <p>Descripción: <span id="ai-description"></span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="simulating hidden">Simulando...</div>
+    <script src="script.js"></script>
+</body>
+</html>

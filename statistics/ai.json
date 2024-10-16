@@ -1,0 +1,37 @@
+{
+    "2022": {
+      "ai_type": "ANI",
+      "ai_level": 1,
+      "description": "Inteligencia Artificial Estrecha (ANI) - Nivel 1 Conversacional"
+    },
+    "2024": {
+      "ai_type": "ANI",
+      "ai_level": 2,
+      "description": "ANI - Nivel 2 Razonamiento"
+    },
+    "2025": {
+      "ai_type": "ANI",
+      "ai_level": 3,
+      "description": "ANI - Nivel 3 Agentes"
+    },
+    "2028": {
+      "ai_type": "ANI",
+      "ai_level": 4,
+      "description": "ANI - Nivel 4 Innovadores"
+    },
+    "2031": {
+      "ai_type": "ANI",
+      "ai_level": 5,
+      "description": "ANI - Nivel 5 Organizaciones"
+    },
+    "2035": {
+      "ai_type": "AGI",
+      "ai_level": null,
+      "description": "Inteligencia Artificial General (AGI) alcanzada"
+    },
+    "2050": {
+      "ai_type": "ASI",
+      "ai_level": null,
+      "description": "Superinteligencia Artificial (ASI) emergente"
+    }
+  }

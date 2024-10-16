@@ -1,0 +1,245 @@
+{
+    "2020": {
+        "technologies": ["5G Networks", "Advanced AI Assistants"]
+    },
+    "2021": {
+        "technologies": ["5G Networks", "Advanced AI Assistants"]
+    },
+    "2022": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles"]
+    },
+    "2023": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles"]
+    },
+    "2024": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles", "Space Tourism"]
+    },
+    "2025": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles"]
+    },
+    "2026": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles", "Space Tourism"]
+    },
+    "2027": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles", "Space Tourism", "Hiperloop"]
+    },
+    "2028": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles", "Space Tourism", "Hiperloop"]
+    },
+    "2029": {
+        "technologies": ["5G Networks", "Advanced AI Assistants", "Self-Driving Vehicles", "Space Tourism", "Hiperloop", "Private Space Stations"]
+    },
+    "2030": {
+        "technologies": ["Self-Driving Vehicles", "Advanced AI Assistants", "Renewable Energy Systems"]
+    },
+    "2031": {
+        "technologies": ["Self-Driving Vehicles", "Advanced AI Assistants", "Renewable Energy Systems", "Fusion Technology"]
+    },
+    "2032": {
+        "technologies": ["Self-Driving Vehicles", "Advanced AI Assistants", "Renewable Energy Systems", "Fusion Technology"]
+    },
+    "2033": {
+        "technologies": ["Self-Driving Vehicles", "Advanced AI Assistants", "Renewable Energy Systems", "Fusion Technology"]
+    },
+    "2034": {
+        "technologies": ["Self-Driving Vehicles", "Advanced AI Assistants", "Renewable Energy Systems", "Fusion Technology"]
+    },
+    "2035": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Renewable Energy Systems"]
+    },
+    "2036": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Renewable Energy Systems", "Advanced Robotics"]
+    },
+    "2037": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Renewable Energy Systems", "Advanced Robotics", "Fusion Technology"]
+    },
+    "2038": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Renewable Energy Systems", "Advanced Robotics", "Fusion Technology"]
+    },
+    "2039": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Renewable Energy Systems", "Advanced Robotics", "Fusion Technology", "Smart Cities"]
+    },
+    "2040": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power"]
+    },
+    "2041": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics"]
+    },
+    "2042": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing"]
+    },
+    "2043": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing"]
+    },
+    "2044": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities"]
+    },
+    "2045": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética"]
+    },
+    "2046": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética"]
+    },
+    "2047": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems"]
+    },
+    "2048": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte"]
+    },
+    "2049": {
+        "technologies": ["Neural Implants", "Self-Driving Vehicles", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion"]
+    },
+    "2050": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion"]
+    },
+    "2051": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion"]
+    },
+    "2052": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion"]
+    },
+    "2053": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion"]
+    },
+    "2054": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion"]
+    },
+    "2055": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems"]
+    },
+    "2056": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems"]
+    },
+    "2057": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems"]
+    },
+    "2058": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems"]
+    },
+    "2059": {
+        "technologies": ["Space Tourism", "Neural Implants", "Fusion Power", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology"]
+    },
+    "2060": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2061": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2062": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2063": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2064": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2065": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2066": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2067": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2068": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2069": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2070": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2071": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2072": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2073": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2074": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2075": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2076": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2077": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2078": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2079": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2080": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2081": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2082": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2083": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2084": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2085": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2086": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2087": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2088": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2089": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2090": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2091": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2092": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2093": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2094": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2095": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2096": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2097": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2098": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2099": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    },
+    "2100": {
+        "technologies": ["Fusion Power", "Neural Implants", "Advanced Robotics", "Quantum Computing", "Smart Cities", "Clonación Genética", "AGI Systems", "Teletransporte", "Interplanetary Propulsion", "Mars Colony Systems", "Terraforming Technology", "Brain-Computer Interfaces"]
+    }
+}
